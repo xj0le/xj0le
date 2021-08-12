@@ -11,7 +11,11 @@
 <h2>📈 &nbsp;Stats</h2>
 
 <p align = "center">
-  <img alt = "Profile Stats" height = "666px" width = "666px" src = "http://github-readme-stats.vercel.app/api?username=xj0le&theme=algolia&show_icons=true&count_private=true"/>
+  <img height = "666px" width = "666px" src = "http://github-readme-stats.vercel.app/api?username=xj0le&theme=algolia&show_icons=true&count_private=true"/>
+</p>
+
+<p align = "center">
+  <img height = "333px" width = "333px" src = http://github-readme-stats.vercel.app/api/top-langs/?username=xj0le&theme=dark&layout=compact&show_icons=true"/>
 </p>
 
 <p align = "center">
