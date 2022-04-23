@@ -7,9 +7,3 @@
   <a href = "http://youtube.com/c/j0leee"><img src = "http://img.shields.io/badge/YouTube-%230077Bdd5.svg?&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 <br/>
 </p> 
-
-<h2>📈 &nbsp;Stats</h2>
-
-<p align = "center">
-    <img src = "http://gpvc.arturio.dev/xj0le">
-</p>
